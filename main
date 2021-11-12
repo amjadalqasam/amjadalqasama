@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Personal page of Ibrahim Abu Farha, a PhD student at the School of Informatics, the University of Edinbrugh">
+  <meta name="keywords" content="NLP, Sentiment Analysis, Social Computing, Computational Social Science, Data mining, Arabic, Natural language processing">
+  <meta name="author" content="Ibrahim Abu Farha">
+
+  <meta name="google-site-verification" content="M2xkyQ9JGC1Bj0VddlY-29S57PvT-fv-vWyCTWyo85E" />
+
+  <title>Ibrahim Abu Farha</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Ibrahim Abu Farha</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#publications">Publications</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#resources">Resources</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+        </li> -->
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+          </li>
+
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h2 class="mb-0">Ibrahim
+          <span class="text-primary">Abu Farha</span>
+        </h2>
+        <h5>
+          <br>
+        </h5>
+        <p class="lead mb-5">
+
+          I am a PhD student at the <a target="_blank" href="https://www.ed.ac.uk/informatics">School of Informatics</a>, the <a target="_blank" href="http://www.ed.ac.uk">University of Edinburgh</a>.
+          I am working under the supervision of <a target="_blank" href="http://homepages.inf.ed.ac.uk/wmagdy/">Walid Magdy</a> and <a target="_blank" href="http://homepages.inf.ed.ac.uk/bonnie/">Bonnie Webber</a>. I am also a member of the <a target="_blank" href="http://smash.inf.ed.ac.uk/">SMASH</a> research group.
+          My general research interests are Natural Language Processing (NLP), Arabic NLP, Computational Social Science and Machine Learning. My current research interest is sarcasm detection and figurative language anlaysis and detection in the context of Arabic.
+            <!-- on sarcasm detection and analysis, mainly in Arabic. -->
+          <br> 
+          In 2018, I completed my <a target="_blank" href="https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=107">MSc in Artificial Intelligence</a> at the
+             <a target="_blank" href="http://www.ed.ac.uk">University of Edinburgh</a>. During my masters I focused on machine learning and NLP. My dissertation was about Arabic sentiment analysis, where I focused on utilising and comparing deep learning models for that task.
+          <!-- <br> -->
+          Finally, I Completed my <a target="_blank" href="https://www.birzeit.edu/en/study/programs/computer-systems-engineering">BA in Computer Systems Engineering</a> from 
+           <a target="_blank" href="https://www.birzeit.edu/en">Birzeit University</a> in Palestine. My final year graduation project was about Automatic Arabic Text Summarization.
+        </p>
+        <div class="social-icons">
+          <!-- <a target="_blank" href="https://www.linkedin.com/in/ibrahim-abu-farha-82720b153/">
+            <i class="fab fa-linkedin-in"></i>
+          </a> -->
+          <!-- <a href="#">
+            <i class="fab fa-github"></i>
+          </a> -->
+          <a target="_blank" href="https://twitter.com/i_abufarha">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" href="https://www.researchgate.net/profile/Ibrahim_Abu_Farha">
+            <i class="fab fa-researchgate"></i>
+          </a>
+          <a target="_blank" href="https://scholar.google.com/citations?user=UxGLZEsAAAAJ&hl=en">
+            <i class="fas fa-graduation-cap"></i>
+          </a>
+          <a href="mailto:i.abufarha@ed.ac.uk">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="publications">
+      <div class="w-100">
+        <h2 class="mb-5">Publications</h2>
+        <ul>
+          <li>
+            <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b> and W. Magdy.
+              "A Comparative Study of Effective Approaches for Arabic Sentiment Analysis". Information Processing & Management (IP&M) Journal 2021 <i><a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0306457320309316?dgcid=author">link</a></i> </font>
+             </p></li>
+          <li>
+              <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b>, W. Zaghouani and W. Magdy.
+                "Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic". WANLP - EACL 2021 <i><a target="_blank" href="https://aclanthology.org/2021.wanlp-1.36/">link</a></i> </font>
+              </p></li>
+          <li>
+              <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b> and W. Magdy.
+                "Benchmarking Transformer-based Language Models for Arabic Sentiment and Sarcasm Detection". WANLP - EACL 2021 <i><a target="_blank" href="https://aclanthology.org/2021.wanlp-1.3/">link</a></i> </font>
+              </p></li>
+
+          <li>
+            <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b> and W. Magdy.
+              "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset". OSACT4 - LREC 2020 <i><a target="_blank" href="https://www.aclweb.org/anthology/2020.osact-1.5/">link</a></i> </font>
+             </p></li>
+             
+          <li>
+            <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b> and W. Magdy.
+              "Multitask Learning for Arabic Offensive Language and Hate-Speech Detection". OSACT4 - LREC 2020 <i><a target="_blank" href="https://www.aclweb.org/anthology/2020.osact-1.14/">link</a></i> </font>
+             </p></li>
+             
+            <li>
+    	         <p align="LEFT" style="margin-top: 14px"><font size="4"><b>Abu Farha I.</b> and W. Magdy.
+                 "Mazajak: An Online Arabic Sentiment Analyser". WANLP - ACL 2019 <i><a target="_blank" href="https://www.aclweb.org/anthology/papers/W/W19/W19-4621/">link</a></i>, <i><a target="_blank" href="http://mazajak.inf.ed.ac.uk:8000/">live demo</a></i> </font>
+    	          </p></li>
+                <li>
+                   <p align="LEFT" style="margin-top: 14px"><font size="4"> Qaroush A., <b>I. Abu Farha</b>, W. Ghanem, M. Washaha, and E. Maali. "An efficient single document
+                      Arabic text summarization using a combination of statistical and semantic features".
+                       Journal of King Saud University – Computer and Information Sciences 2019. <i><a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1319157818310498">link</a></i> </font>
+                    </p></li>
+        </ul>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="resources">
+      <div class="w-100">
+        <h2 class="mb-5">Resources</h2>
+        <h3 style="text-transform: none;"> ArSarcasm Dataset (v2)</h3>        
+        <ul>
+          <li>  
+            <p align="LEFT" style="margin-top: 14px"><font size="4"> An extension of the original ArSarcasm. It contains around 15K tweets labelled for sarcasm, sentiment and dialect. </font> </p>
+      </li>
+      <li>  
+        <p align="LEFT" style="margin-top: 14px"> <font size="4"> The standard dataset for <a target="_blank" href="https://sites.google.com/view/ar-sarcasm-sentiment-detection/home"> the shared task on sarcasm and sentiment detection in Arabic </a>. <b>We recommend using ArSarcasm-v2 over ArSarcasm-v1</b></font>. </p>
+  </li>
+       
+          <li>  
+              <p align="LEFT" style="margin-top: 14px"><font size="4"> Available <i><a target="_blank" href="https://github.com/iabufarha/ArSarcasm-v2"> here</a></font></i> </p>
+            
+            
+          </li>
+          <li>
+            <p align="LEFT" style="margin-top: 14px"><font size="4">Abu Farha I., W. Zaghouani and W. Magdy.
+              "Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic". WANLP - EACL 2021 <i><a target="_blank" href="https://aclanthology.org/2021.wanlp-1.36/">link</a></i> </font>
+            </p></li>
+
+        </ul>
+        <h3 style="text-transform: none;"> ArSarcasm Dataset (v1)</h3>        
+        <ul>
+          <li>  
+                <p align="LEFT" style="margin-top: 14px"><font size="4"> A set of around 10K tweets labelled for sarcasm, sentiment and dialect.</font> </p>
+          </li>
+
+            
+          <li>  
+              <p align="LEFT" style="margin-top: 14px"><font size="4"> Available <i><a target="_blank" href="https://github.com/iabufarha/ArSarcasm"> here</a></font></i> </p>
+            
+            
+          </li>
+          <li>
+            <p align="LEFT" style="margin-top: 14px"><font size="4">Abu Farha I. and W. Magdy.
+              "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset". OSACT4 - LREC 2020 <i><a target="_blank" href="https://www.aclweb.org/anthology/2020.osact-1.5/">link</a></i> </font>
+             </p></li>
+
+        </ul>
+
+        <h3 style="text-transform: none;"> Mazajak Arabic Sentiment Analyser</h3>        
+        <ul>
+          <li>  
+                <p align="LEFT" style="margin-top: 14px"><font size="4">Free online Arabic Sentiment Analysis tool and API</font> </p>
+          </li>
+
+            
+          <li>  
+              <p align="LEFT" style="margin-top: 14px"><font size="4"> Available <i><a target="_blank" href="http://mazajak.inf.ed.ac.uk:8000/"> here</a></font></i> </p>
+            
+            
+          </li>
+            <li> 
+               <p align="LEFT" style="margin-top: 14px"><font size="4"> Related publication: <br>
+                Abu Farha I. and W. Magdy.
+                 "Mazajak: An Online Arabic Sentiment Analyser". WANLP - ACL 2019 <i><a target="_blank" href="https://www.aclweb.org/anthology/papers/W/W19/W19-4621/">link</a> </i> </font>
+    	          </p></li>
+
+        </ul>
+
+
+        <h3 style="text-transform: none;"> Mazajak Arabic Word Embeddigs</h3>        
+        <ul>
+          <li>  
+                <p align="LEFT" style="margin-top: 14px"><font size="4">Arabic Word Embedding set for social media.</font> </p>
+          </li>
+          <li>  
+              <p align="LEFT" style="margin-top: 14px"><font size="4">Word2vec vectors built using CBOW and Skip-gram Architectures.</font> </p>
+        </li>
+          <li>  
+              <p align="LEFT" style="margin-top: 14px"><font size="4">Built using 250M tweets.</font> </p>
+        </li>
+        <li>  
+            <p align="LEFT" style="margin-top: 14px"><font size="4">Available for free <i><a target="_blank" href="http://mazajak.inf.ed.ac.uk:8000/#embedding-page"> here</a></font></i> </p>
+        </li>            
+
+            <li> 
+               <p align="LEFT" style="margin-top: 14px"><font size="4"> Related publication: <br> 
+                Abu Farha I. and W. Magdy.
+                 "Mazajak: An Online Arabic Sentiment Analyser". WANLP - ACL 2019 <i><a target="_blank" href="https://www.aclweb.org/anthology/papers/W/W19/W19-4621/">link</a> </i></font>
+    	          </p></li>
+
+        </ul>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0" style="text-transform: none;">Research Assistant</h3>
+            <div class="subheading mb-3">The University of Edinburgh </div>
+            <p>Main Researcher on Mazajak project for Arabic sentiment analysis. </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2018 - January 2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0" style="text-transform: none;">Teaching and Research Assistant</h3>
+            <div class="subheading mb-3">Birzeit University</div>
+            <p>As a Teaching and Research Assistant at the Electrical and Computer Engineering department, I was responsible
+              of tutoring various specialized labs such as Computer Networks, Microprocessers, Linux, and Real Time Systems.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">March 2016 - August 2017</span>
+          </div>
+        </div>
+
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0" style="text-transform: none;">.NET Intern</h3>
+            <div class="subheading mb-3">iConnect Technologies</div>
+            <p>Internship and practical training on using .NET framework.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2015 - August 2015</span>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+
+
+  
+
+
+
+    <!-- <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+      <div class="w-100">
+        <h2 class="mb-5">Awards</h2>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            Funding for PhD from the School of Informatics, the University of Edinburgh</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            HESPAL Masters Scholarship from the British Council</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            Ranked the first student in the College of Engineering, Birzeit University</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            Chosen to be the valedictorian at the Graduation Ceremony on behalf of my colleagues for the academic year 2015-2016, Birzeit University.</li>
+          <li>
+
+        </ul>
+      </div> -->
+
+
+    </section>
+      <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="contact">
+        <div class="w-100">
+          <h2 class="mb-5">Contact</h2>
+      <p class="lead mb-5">
+        Email: <a href="mailto:i.abufarha@ed.ac.uk">i.abufarha@ed.ac.uk</a> <br>
+        <br>
+        Informatics Forum <br> 
+        University of Edinbrugh <br>
+        10 Crichton Street <br>
+        Edinburgh <br> 
+        United Kingdom  <br>
+        EH8 9AB 
+      </p>
+
+    </section>
+
+    <!-- <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="">
+      </section> -->
+
+    <!-- <div align="center">
+      <a href='https://thesiswritingservice.net/'>ghostwriter thesis</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bdf4ea78a9caf14a388247a2e0b71fb27ca0bd3f'></script>
+  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/540140/t/2"></script>
+  </div> -->
+
+
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+  
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145380663-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145380663-1');
+</script>
+
+
+
+</body>
+
+</html>
